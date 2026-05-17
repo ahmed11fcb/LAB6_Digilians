@@ -17,6 +17,12 @@ public class TestCases {
     public void MySecoundTestCase()
     {
         System.out.println("hello world - ahmed assem");
+
+    }
+    @Test
+    public void MyTestCase4()
+    {
+        System.out.println("3bdELGawad");
     }
     @Test
     public void MySecoundTestCase3()
