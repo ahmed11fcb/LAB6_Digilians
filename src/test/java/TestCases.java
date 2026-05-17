@@ -49,4 +49,9 @@ public class TestCases {
     public void TC(){
         System.out.println("Hello From Meme");
     }
+    @Test
+    public void testK()
+    {
+        System.out.println("Karim");
+    }
 }
