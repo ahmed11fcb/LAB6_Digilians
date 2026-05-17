@@ -19,6 +19,12 @@ public class TestCases {
         System.out.println("hello world - ahmed assem");
 
     }
+
+    @Test
+    public void AhmedHamdy()
+    {
+        System.out.println("ahmed hamdy");
+    }
     @Test
     public void MyTestCase4()
     {
