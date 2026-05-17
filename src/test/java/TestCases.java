@@ -18,4 +18,9 @@ public class TestCases {
     {
         System.out.println("hello world - ahmed assem");
     }
+    @Test
+    public void MYtest ()
+    {
+        System.out.println("hello  __ mohamed ahmed  ");
+    }
 }
