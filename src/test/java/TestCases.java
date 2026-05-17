@@ -35,4 +35,9 @@ public class TestCases {
     {
         System.out.println("Half Kunafa, Half Cream Cheese");
     }
+    @Test
+    public void Test()
+    {
+        System.out.println("mohamed ahmed");
+    }
 }
