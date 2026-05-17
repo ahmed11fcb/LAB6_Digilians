@@ -18,10 +18,4 @@ public class TestCases {
     {
         System.out.println("hello world - ahmed assem");
     }
-    @Test
-    public void MyTestCase4()
-    {
-        System.out.println("3bdELGawad");
-    }
 }
-
