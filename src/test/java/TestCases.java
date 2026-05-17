@@ -11,10 +11,4 @@ public class TestCases {
     public static void main(String[] args) {
         System.out.println("hii gama3a from sandra");
     }
-    @Test
-    public void MyFirstTestCase2()
-    {
-        System.out.println("hello from yousef");
-    }
-
 }
