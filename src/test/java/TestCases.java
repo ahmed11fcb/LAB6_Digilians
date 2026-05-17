@@ -41,5 +41,11 @@ public class TestCases {
         System.out.println("hello world - Amr Mohamed");
     }
 
+    @Test
+    public void TC()
+    {
+        System.out.println("hello world - MaZeN");
+    }
+
 
 }
