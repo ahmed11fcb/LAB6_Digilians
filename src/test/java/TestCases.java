@@ -6,8 +6,5 @@ public class TestCases {
     public void MyFirstTestCase()
     {
         System.out.println("hello from ahmed hamdy");
-
     }
-    @Test
-
 }
