@@ -40,4 +40,9 @@ public class TestCases {
     {
         System.out.println("mohamed ahmed");
     }
+    @Test
+    public void testK()
+    {
+        System.out.println("Karim");
+    }
 }
