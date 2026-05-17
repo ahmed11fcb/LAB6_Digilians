@@ -7,7 +7,6 @@ public class TestCases {
     {
         System.out.println("hello from ahmed hamdy");
     }
-
     @Test
     public static void main(String[] args) {
         System.out.println("hii gama3a from sandra");
@@ -25,14 +24,22 @@ public class TestCases {
     {
         System.out.println("3bdELGawad");
     }
-
-
     @Test
-    public void karim()
+    public void MySecoundTestCase3()
     {
-        System.out.println("hello from karim");
+        System.out.println("abyad from yousef");
     }
 
+    @Test
+    public void TestoFromETSH()
+    {
+        System.out.println("Half Kunafa, Half Cream Cheese");
+    }
+    @Test
+    public void MyTherdTestCase()
+    {
+        System.out.println("surprise from Amr Mohamed");
+    }
 
 
 }
