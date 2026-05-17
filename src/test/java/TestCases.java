@@ -18,9 +18,10 @@ public class TestCases {
     {
         System.out.println("hello world - ahmed assem");
     }
-    @Test
-    public void Abtal_El_CI/CD(){
-        System.out.println("Hello from MaZeN");
 
+    @Test
+    public void Abtal_El_gitHub()
+    {
+        System.out.println("hello from MaZeN");
     }
 }
