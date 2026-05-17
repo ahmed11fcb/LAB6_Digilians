@@ -35,6 +35,17 @@ public class TestCases {
     {
         System.out.println("Half Kunafa, Half Cream Cheese");
     }
+    @Test
+    public void MyTherdTestCase()
+    {
+        System.out.println("surprise from Amr Mohamed");
+    }
+ @Test
+    public void MyTestCase5()
+    {
+        System.out.println("Hiii from Aya");
+     }
+
   @Test
     public void Me(){
       System.out.println("Hello From Gehad");
