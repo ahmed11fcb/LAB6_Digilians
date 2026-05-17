@@ -38,7 +38,7 @@ public class TestCases {
     @Test
     public void MyTherdTestCase()
     {
-        System.out.println("hello world - Amr Mohamed");
+        System.out.println("surprices from Amr Mohamed");
     }
 
 
