@@ -19,6 +19,12 @@ public class TestCases {
         System.out.println("hello world - ahmed assem");
 
     }
+
+    @Test
+    public void AhmedHamdy()
+    {
+        System.out.println("ahmed hamdy");
+    }
     @Test
     public void MyTestCase4()
     {
@@ -43,7 +49,13 @@ public class TestCases {
     @Test
     public void MyTherdTestCase()
     {
-        System.out.println("surprise from Amr Mohamed");
+        System.out.println("hello world - Amr Mohamed");
+    }
+
+    @Test
+    public void TC()
+    {
+        System.out.println("hello world - MaZeN");
     }
 
 
