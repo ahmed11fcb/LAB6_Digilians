@@ -6,7 +6,6 @@ public class TestCases {
     public void MyFirstTestCase()
     {
         System.out.println("hello from ahmed hamdy");
-        System.out.println("hello from mohamed sobhy");
     }
     @Test
     public static void main(String[] args) {
@@ -19,6 +18,15 @@ public class TestCases {
     {
         System.out.println("hello world - ahmed assem");
     }
+    @Test
+    public void MySecoundTestCase3()
+    {
+        System.out.println("abyad from yousef");
+    }
 
-
+    @Test
+    public void TestoFromETSH()
+    {
+        System.out.println("Half Kunafa, Half Cream Cheese");
+    }
 }
