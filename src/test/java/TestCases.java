@@ -6,5 +6,10 @@ public class TestCases {
     public void MyFirstTestCase()
     {
         System.out.println("hello from ahmed hamdy");
+        System.out.println("hello from mohamed sobhy");
+    }
+    @Test
+    public static void main(String[] args) {
+        System.out.println("hii gama3a from sandra");
     }
 }
