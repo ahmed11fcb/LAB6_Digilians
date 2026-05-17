@@ -36,16 +36,8 @@ public class TestCases {
         System.out.println("Half Kunafa, Half Cream Cheese");
     }
     @Test
-    public void MyTherdTestCase()
+    public void Test()
     {
-        System.out.println("hello world - Amr Mohamed");
+        System.out.println("mohamed ahmed");
     }
-
-    @Test
-    public void TC()
-    {
-        System.out.println("hello world - MaZeN");
-    }
-
-
 }
