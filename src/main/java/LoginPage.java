@@ -14,5 +14,8 @@ public class LoginPage {
     {
         driver.findElement(username).sendKeys(user);
     }
+    public void MyName (){
+        System.out.println("Roaa");
+    }
 
 }
