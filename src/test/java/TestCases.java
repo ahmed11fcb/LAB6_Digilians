@@ -7,7 +7,6 @@ public class TestCases {
     {
         System.out.println("hello from ahmed hamdy");
         System.out.println("hello from mohamed sobhy");
-
     }
 
 
