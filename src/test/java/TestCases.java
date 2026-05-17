@@ -7,8 +7,17 @@ public class TestCases {
     {
         System.out.println("hello from ahmed hamdy");
     }
+
     @Test
     public static void main(String[] args) {
         System.out.println("hii gama3a from sandra");
     }
+
+
+    @Test
+    public void karim()
+    {
+        System.out.println("hello from karim");
+    }
+
 }
